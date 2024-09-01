@@ -48,4 +48,4 @@ console.log(arr11);
 console.log(arr22);
 console.log(mrach);
 
-Array.length
+let checkMe = mrach.length
