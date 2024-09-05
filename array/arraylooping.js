@@ -43,6 +43,22 @@ console.log(rev_word);
 
 
 
+for (let i = 2; i <= 100; i++) {
+   if (Math.sqrt(i) % 1 === 0) {
+     console.log(`First square number is: ${i}`);
+     break;
+   }
+ }
+  
+
+ 
+   
+
+
+
+
+
+
 
 
  
