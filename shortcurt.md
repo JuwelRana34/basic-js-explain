@@ -1,0 +1,1 @@
+// clg for shortly writting console.log(object);
